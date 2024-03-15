@@ -4,7 +4,7 @@
 - 🏬 &nbsp;Desenvolvedor FullStack.
 - 🔭 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando Ariquitetura de Software.
-- 🌱 &nbsp; Aprendendo mais sobre TypeScript, C++.
+- 🌱 &nbsp; Aprendendo mais sobre TypeScript, C/C++.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
