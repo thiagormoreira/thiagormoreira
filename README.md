@@ -1,16 +1,23 @@
-### Hi there 👋
+## Olá, meu nome é <strong>Thiago Moreira</strong>
+- 🏬 &nbsp;Desenvolvedor FullStack.
+- 🔭 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 
-<!--
-**thiagormoreira/thiagormoreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> :rocket: &nbsp;Minhas Skills </h3>
 
-Here are some ideas to get you started:
+**Aplicações e Dados**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  [![My Skills](https://skillicons.dev/icons?i=nodejs,typescript,react,java,php,laravel,mysql,spring,maven,bootstrap,jquery,js,html,css)]()
+  
+**DevOps**
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,docker)](https://skillicons.dev)
+  
+**Ferramentas de Desenvolvimento**
+
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,eclipse,idea)](https://skillicons.dev)
+  <br/>
+<br/>
+<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+
+[![Linkedin: Ellen](https://img.shields.io/badge/-ellendias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/trmoreira/)](https://www.linkedin.com/in/trmoreira/)
+[![Gmail Badge](https://img.shields.io/badge/-ellencdiass@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:loganguns@gmail.com)](mailto:loganguns@gmail.com)
