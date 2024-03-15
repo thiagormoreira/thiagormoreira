@@ -14,10 +14,10 @@
   
 **Ferramentas de Desenvolvimento**
 
-[![My Skills](https://skillicons.dev/icons?i=visualstudio,eclipse,idea)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,phpstorm,insomnia,postman)](https://skillicons.dev)
   <br/>
 <br/>
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
 [![Linkedin: Ellen](https://img.shields.io/badge/-ellendias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/trmoreira/)](https://www.linkedin.com/in/trmoreira/)
-[![Gmail Badge](https://img.shields.io/badge/-ellencdiass@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:loganguns@gmail.com)](mailto:loganguns@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-loganguns@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:loganguns@gmail.com)](mailto:loganguns@gmail.com)
